@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>BUT1 | Yoann-Goumarre-Portfolio</title>
+	<atom:link href="https://goumarry.github.io/yoanngoumarre/category/but1/feed/" rel="self" type="application/rss+xml" />
+	<link>https://goumarry.github.io/yoanngoumarre</link>
+	<description></description>
+	<lastBuildDate>Mon, 17 Jun 2024 17:54:47 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+	<item>
+		<title>Développement d&#8217;une application serveur.</title>
+		<link>https://goumarry.github.io/yoanngoumarre/projet-6/</link>
+					<comments>https://goumarry.github.io/yoanngoumarre/projet-6/#respond</comments>
+		
+		<dc:creator><![CDATA[goumarry]]></dc:creator>
+		<pubDate>Sat, 15 Jun 2024 13:30:03 +0000</pubDate>
+				<category><![CDATA[BUT1]]></category>
+		<guid isPermaLink="false">https://goumarry.github.io/yoanngoumarre/?p=79</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="et_pb_section et_pb_section_0 et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_0">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_0  et_pb_text_align_left  et_pb_blurb_position_top et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap et_pb_only_image_mode_wrap"><img fetchpriority="high" decoding="async" width="512" height="512" src="https://goumarry.github.io/yoanngoumarre/wp-content/uploads/2024/06/outils.png" alt="" srcset="https://goumarry.github.io/yoanngoumarre/wp-content/uploads/2024/06/outils.png 512w, https://goumarry.github.io/yoanngoumarre/wp-content/uploads/2024/06/outils-480x480.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 512px, 100vw" class="et-waypoint et_pb_animation_top et_pb_animation_top_tablet et_pb_animation_top_phone wp-image-161" /></span></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><span>Whimsical, Java, JavaFX et Visual Paradigm</span></h4>
+						
+					</div>
+				</div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_1">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Objectif</h3>
+<p>Création d&rsquo;une application serveur de gestion d&rsquo;événements.</p></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_2  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Compétences</h3>
+<ul>
+<li>Développer des interfaces utilisateurs.</li>
+<li>Gestion d&rsquo;un projet en équipe.</li>
+<li>Connaissance Java, IHM, Visual Paradigm&#8230;</li>
+</ul>
+<ul></ul></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_2">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_3  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_text et_pb_text_2  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Description</h3>
+<p>En tant qu&rsquo;équipe, nous avons collaboré à la conception complète d&rsquo;une application de gestion d&rsquo;événements. Nous avons consacré une attention particulière à définir la vision de l&rsquo;application, en identifiant les besoins, en décrivant les cas d&rsquo;utilisation et en les classant par ordre de priorité. Pour visualiser notre conception, nous avons élaboré des diagrammes de cas d&rsquo;utilisation, des diagrammes de classes d&rsquo;analyse métier et des diagrammes de classes d&rsquo;objets. Ensuite, nous avons programmé l&rsquo;application en utilisant le langage Java et développé son interface graphique avec JavaFX.</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_3">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_4  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_1  et_pb_text_align_center  et_pb_blurb_position_top et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap et_pb_only_image_mode_wrap"><img loading="lazy" decoding="async" width="512" height="512" src="https://goumarry.github.io/yoanngoumarre/wp-content/uploads/2024/06/standing-up-man_10522.png" alt="" srcset="https://goumarry.github.io/yoanngoumarre/wp-content/uploads/2024/06/standing-up-man_10522.png 512w, https://goumarry.github.io/yoanngoumarre/wp-content/uploads/2024/06/standing-up-man_10522-480x480.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 512px, 100vw" class="et-waypoint et_pb_animation_top et_pb_animation_top_tablet et_pb_animation_top_phone wp-image-201" /></span></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><span>4</span></h4>
+						
+					</div>
+				</div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://goumarry.github.io/yoanngoumarre/projet-6/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Exploitation d&#8217;une base de données.</title>
+		<link>https://goumarry.github.io/yoanngoumarre/projet-5/</link>
+					<comments>https://goumarry.github.io/yoanngoumarre/projet-5/#respond</comments>
+		
+		<dc:creator><![CDATA[goumarry]]></dc:creator>
+		<pubDate>Sat, 15 Jun 2024 13:29:45 +0000</pubDate>
+				<category><![CDATA[BUT1]]></category>
+		<guid isPermaLink="false">https://goumarry.github.io/yoanngoumarre/?p=77</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="et_pb_section et_pb_section_1 et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_4">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_5  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_2  et_pb_text_align_left  et_pb_blurb_position_top et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap et_pb_only_image_mode_wrap"><img loading="lazy" decoding="async" width="512" height="512" src="https://goumarry.github.io/yoanngoumarre/wp-content/uploads/2024/06/outils.png" alt="" srcset="https://goumarry.github.io/yoanngoumarre/wp-content/uploads/2024/06/outils.png 512w, https://goumarry.github.io/yoanngoumarre/wp-content/uploads/2024/06/outils-480x480.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 512px, 100vw" class="et-waypoint et_pb_animation_top et_pb_animation_top_tablet et_pb_animation_top_phone wp-image-161" /></span></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><span>PostgreSQL et R Studio</span></h4>
+						
+					</div>
+				</div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_5">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_6  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_text et_pb_text_3  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Objectif</h3>
+<p>Exploitation d&rsquo;une base de données sur les accidents de la route.</p></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_7  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_text et_pb_text_4  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Compétences</h3>
+<ul>
+<li>Visualiser et comprendre des données.</li>
+<li>Travail d&rsquo;équipe.</li>
+<li>Connaissance PostgreSQL et R Studio.</li>
+</ul>
+<ul></ul>
+<ul></ul></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_6">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_8  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_text et_pb_text_5  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Description</h3>
+<p>En tant qu&rsquo;équipe, nous avons collaborativement conçu, géré, administré et exploité les données d&rsquo;une entreprise spécifique. Notre tâche principale était de mettre à jour et d&rsquo;interroger une base de données relationnelle que nous avions préalablement conçue en respectant un cahier des charges détaillé. Une fois les données pertinentes extraites, nous avons utilisé le langage de programmation R pour créer des visualisations graphiques. Ensuite, nous avons analysé ces visualisations et présenté nos résultats de manière claire et concise en anglais.</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_7">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_9  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_3  et_pb_text_align_center  et_pb_blurb_position_top et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap et_pb_only_image_mode_wrap"><img loading="lazy" decoding="async" width="512" height="512" src="https://goumarry.github.io/yoanngoumarre/wp-content/uploads/2024/06/standing-up-man_10522.png" alt="" srcset="https://goumarry.github.io/yoanngoumarre/wp-content/uploads/2024/06/standing-up-man_10522.png 512w, https://goumarry.github.io/yoanngoumarre/wp-content/uploads/2024/06/standing-up-man_10522-480x480.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 512px, 100vw" class="et-waypoint et_pb_animation_top et_pb_animation_top_tablet et_pb_animation_top_phone wp-image-201" /></span></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><span>4</span></h4>
+						
+					</div>
+				</div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://goumarry.github.io/yoanngoumarre/projet-5/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Installation de services réseaux.</title>
+		<link>https://goumarry.github.io/yoanngoumarre/projet-4/</link>
+					<comments>https://goumarry.github.io/yoanngoumarre/projet-4/#respond</comments>
+		
+		<dc:creator><![CDATA[goumarry]]></dc:creator>
+		<pubDate>Sat, 15 Jun 2024 13:29:21 +0000</pubDate>
+				<category><![CDATA[BUT1]]></category>
+		<guid isPermaLink="false">https://goumarry.github.io/yoanngoumarre/?p=75</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="et_pb_section et_pb_section_2 et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_8">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_10  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_4  et_pb_text_align_left  et_pb_blurb_position_top et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap et_pb_only_image_mode_wrap"><img loading="lazy" decoding="async" width="512" height="512" src="https://goumarry.github.io/yoanngoumarre/wp-content/uploads/2024/06/outils.png" alt="" srcset="https://goumarry.github.io/yoanngoumarre/wp-content/uploads/2024/06/outils.png 512w, https://goumarry.github.io/yoanngoumarre/wp-content/uploads/2024/06/outils-480x480.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 512px, 100vw" class="et-waypoint et_pb_animation_top et_pb_animation_top_tablet et_pb_animation_top_phone wp-image-161" /></span></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><span>Debian 11, Apache, PostgreSQL, PHPAdmin et PHP</span></h4>
+						
+					</div>
+				</div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_9">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_11  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_text et_pb_text_6  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Objectif</h3>
+<p>Réalisation d&rsquo;un guide d&rsquo;installation rédigé en Anglais.</p></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_12  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_text et_pb_text_7  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Compétences</h3>
+<ul>
+<li>Configurer un poste de travail dans un réseau d’entreprise.</li>
+<li>Utiliser les fonctionnalités de base d’un système multitâches / multiutilisateurs.</li>
+<li>Savoir rédiger un tutoriel en Anglais.</li>
+</ul>
+<ul></ul></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_10">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_13  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_text et_pb_text_8  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Description</h3>
+<p>Cette tâche impliquait la création d&rsquo;un guide d&rsquo;installation détaillé en anglais, décrivant la configuration d&rsquo;un serveur Debian 11 avec Apache, PostgreSQL et PHP. Il fallait rendre le serveur opérationnel, en permettant son accès et son interrogation depuis la machine hôte.</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_11">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_14  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_5  et_pb_text_align_center  et_pb_blurb_position_top et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap et_pb_only_image_mode_wrap"><img loading="lazy" decoding="async" width="512" height="512" src="https://goumarry.github.io/yoanngoumarre/wp-content/uploads/2024/06/standing-up-man_10522.png" alt="" srcset="https://goumarry.github.io/yoanngoumarre/wp-content/uploads/2024/06/standing-up-man_10522.png 512w, https://goumarry.github.io/yoanngoumarre/wp-content/uploads/2024/06/standing-up-man_10522-480x480.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 512px, 100vw" class="et-waypoint et_pb_animation_top et_pb_animation_top_tablet et_pb_animation_top_phone wp-image-201" /></span></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><span>1</span></h4>
+						
+					</div>
+				</div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://goumarry.github.io/yoanngoumarre/projet-4/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Recueil de besoins et découverte de l&#8217;environnement économique et écologique.</title>
+		<link>https://goumarry.github.io/yoanngoumarre/projet-3/</link>
+					<comments>https://goumarry.github.io/yoanngoumarre/projet-3/#respond</comments>
+		
+		<dc:creator><![CDATA[goumarry]]></dc:creator>
+		<pubDate>Sat, 15 Jun 2024 13:28:53 +0000</pubDate>
+				<category><![CDATA[BUT1]]></category>
+		<guid isPermaLink="false">https://goumarry.github.io/yoanngoumarre/?p=73</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="et_pb_section et_pb_section_3 et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_12">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_15  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_6  et_pb_text_align_left  et_pb_blurb_position_top et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap et_pb_only_image_mode_wrap"><img loading="lazy" decoding="async" width="512" height="512" src="https://goumarry.github.io/yoanngoumarre/wp-content/uploads/2024/06/outils.png" alt="" srcset="https://goumarry.github.io/yoanngoumarre/wp-content/uploads/2024/06/outils.png 512w, https://goumarry.github.io/yoanngoumarre/wp-content/uploads/2024/06/outils-480x480.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 512px, 100vw" class="et-waypoint et_pb_animation_top et_pb_animation_top_tablet et_pb_animation_top_phone wp-image-161" /></span></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><span>HTML/CSS, Word, Whimsical</span></h4>
+						
+					</div>
+				</div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_13">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_16  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_text et_pb_text_9  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Objectif</h3>
+<p>Consulter facilement des informations vulgarisées sur une ESN.</p></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_17  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_text et_pb_text_10  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Compétences</h3>
+<ul>
+<li>Appréhender les besoins du client et de l&rsquo;utilisateur.</li>
+<li>Travail d&rsquo;équipe.</li>
+<li>Identifier les acteurs et les différentes phases d’un cycle de développement.</li>
+</ul>
+<ul></ul></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_14">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_18  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_text et_pb_text_11  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Description</h3>
+<p>Dans le cadre de ce projet, nous avons entrepris de développer un nouveau site web à la fois sobre du point de vue écologique et visuellement attrayant, afin de présenter l&rsquo;entreprise de manière optimale. Le site a été entièrement conçu en utilisant les langages HTML/CSS, permettant ainsi une personnalisation et une adaptation précises aux besoins de « Atos ». Il a fallut créer une interface conviviale et intuitive qui mettrait en valeur les informations essentielles de l&rsquo;entreprise, tout en respectant les principes de durabilité écologique. L&rsquo;équipe a travaillé de manière organisée et agile, en utilisant des méthodes de gestion de projet efficaces pour garantir la réussite du projet dans les délais impartis.</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_15">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_19  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_7  et_pb_text_align_center  et_pb_blurb_position_top et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap et_pb_only_image_mode_wrap"><img loading="lazy" decoding="async" width="512" height="512" src="https://goumarry.github.io/yoanngoumarre/wp-content/uploads/2024/06/standing-up-man_10522.png" alt="" srcset="https://goumarry.github.io/yoanngoumarre/wp-content/uploads/2024/06/standing-up-man_10522.png 512w, https://goumarry.github.io/yoanngoumarre/wp-content/uploads/2024/06/standing-up-man_10522-480x480.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 512px, 100vw" class="et-waypoint et_pb_animation_top et_pb_animation_top_tablet et_pb_animation_top_phone wp-image-201" /></span></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><span>3</span></h4>
+						
+					</div>
+				</div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://goumarry.github.io/yoanngoumarre/projet-3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Création d&#8217;une base de données.</title>
+		<link>https://goumarry.github.io/yoanngoumarre/projet-2/</link>
+					<comments>https://goumarry.github.io/yoanngoumarre/projet-2/#respond</comments>
+		
+		<dc:creator><![CDATA[goumarry]]></dc:creator>
+		<pubDate>Sat, 15 Jun 2024 13:28:23 +0000</pubDate>
+				<category><![CDATA[BUT1]]></category>
+		<guid isPermaLink="false">https://goumarry.github.io/yoanngoumarre/?p=71</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="et_pb_section et_pb_section_4 et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_16">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_20  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_8  et_pb_text_align_left  et_pb_blurb_position_top et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap et_pb_only_image_mode_wrap"><img loading="lazy" decoding="async" width="512" height="512" src="https://goumarry.github.io/yoanngoumarre/wp-content/uploads/2024/06/outils.png" alt="" srcset="https://goumarry.github.io/yoanngoumarre/wp-content/uploads/2024/06/outils.png 512w, https://goumarry.github.io/yoanngoumarre/wp-content/uploads/2024/06/outils-480x480.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 512px, 100vw" class="et-waypoint et_pb_animation_top et_pb_animation_top_tablet et_pb_animation_top_phone wp-image-161" /></span></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><span>PostgreSQL</span></h4>
+						
+					</div>
+				</div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_17">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_21  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_text et_pb_text_12  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Objectif</h3>
+<p>Création d&rsquo;une base de données contenant diverses informations sur le Titanic, en binôme.</p></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_22  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_text et_pb_text_13  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Compétences</h3>
+<ul>
+<li>Gestion et interrogation de bases de données relationnelles.</li>
+<li>Travail d&rsquo;équipe.</li>
+<li>Conception de bases de données relationnelles à partir d&rsquo;un cahier des charges.</li>
+</ul>
+<ul></ul></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_18">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_23  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_text et_pb_text_14  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Description</h3>
+<p>Cette SAE consistait donc d&rsquo;analyser les données disponibles dans une base de données préexistante contenant des informations sur le Titanic. Il fallait d&rsquo;extraire des informations statistiques pertinentes et de répondre aux questions posées en utilisant les fonctionnalités de requêtes de la base de données Titanic ou de l&rsquo;application associée.</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_19">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_24  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_9  et_pb_text_align_center  et_pb_blurb_position_top et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap et_pb_only_image_mode_wrap"><img loading="lazy" decoding="async" width="512" height="512" src="https://goumarry.github.io/yoanngoumarre/wp-content/uploads/2024/06/standing-up-man_10522.png" alt="" srcset="https://goumarry.github.io/yoanngoumarre/wp-content/uploads/2024/06/standing-up-man_10522.png 512w, https://goumarry.github.io/yoanngoumarre/wp-content/uploads/2024/06/standing-up-man_10522-480x480.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 512px, 100vw" class="et-waypoint et_pb_animation_top et_pb_animation_top_tablet et_pb_animation_top_phone wp-image-201" /></span></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><span>2</span></h4>
+						
+					</div>
+				</div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://goumarry.github.io/yoanngoumarre/projet-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Implémentation d&#8217;un besoin client et comparaison d&#8217;approches algorithmiques.</title>
+		<link>https://goumarry.github.io/yoanngoumarre/projet-1/</link>
+					<comments>https://goumarry.github.io/yoanngoumarre/projet-1/#respond</comments>
+		
+		<dc:creator><![CDATA[goumarry]]></dc:creator>
+		<pubDate>Sat, 15 Jun 2024 13:28:08 +0000</pubDate>
+				<category><![CDATA[BUT1]]></category>
+		<guid isPermaLink="false">https://goumarry.github.io/yoanngoumarre/?p=69</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="et_pb_section et_pb_section_5 et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_20">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_25  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_10  et_pb_text_align_left  et_pb_blurb_position_top et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap et_pb_only_image_mode_wrap"><img loading="lazy" decoding="async" width="512" height="512" src="https://goumarry.github.io/yoanngoumarre/wp-content/uploads/2024/06/outils.png" alt="" srcset="https://goumarry.github.io/yoanngoumarre/wp-content/uploads/2024/06/outils.png 512w, https://goumarry.github.io/yoanngoumarre/wp-content/uploads/2024/06/outils-480x480.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 512px, 100vw" class="et-waypoint et_pb_animation_top et_pb_animation_top_tablet et_pb_animation_top_phone wp-image-161" /></span></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><span>Java</span></h4>
+						
+					</div>
+				</div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_21">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_26  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_text et_pb_text_15  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Objectif</h3>
+<p>Création d&rsquo;un algorithme capable de reconnaître le sujet de certaines dépêches.</p></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_27  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_text et_pb_text_16  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Compétences</h3>
+<ul>
+<li>Proposer des applications informatiques optimisées en fonction de critères spécifiques.</li>
+<li>Formaliser et mettre en œuvre des outils mathématiques.</li>
+<li>Comparer des algorithmes pour des problèmes classiques.</li>
+</ul></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_22">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_28  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_text et_pb_text_17  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Description</h3>
+<p>Nous avons développé un programme en Java capable d&rsquo;analyser une base de données de 500 dépêches. Chaque dépêche était associée à l&rsquo;un des cinq sujets possibles : sport, politique, environnement/sciences, culture et économie. Après avoir formé le programme sur cette base de données, il était en mesure d&rsquo;analyser le texte de n&rsquo;importe quelle autre dépêche et de déterminer automatiquement son sujet. Ce projet a été réalisé en binôme, ce qui nous a permis d&rsquo;appliquer nos connaissances en algorithmique de manière collaborative et de communiquer efficacement en échangeant des commentaires. Une présentation finale de notre travail nous a permis d&rsquo;évaluer les points forts de notre produit final et de notre collaboration, ainsi que d&rsquo;identifier les obstacles rencontrés et de trouver des solutions.</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_23">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_29  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_11  et_pb_text_align_center  et_pb_blurb_position_top et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap et_pb_only_image_mode_wrap"><img loading="lazy" decoding="async" width="512" height="512" src="https://goumarry.github.io/yoanngoumarre/wp-content/uploads/2024/06/standing-up-man_10522.png" alt="" srcset="https://goumarry.github.io/yoanngoumarre/wp-content/uploads/2024/06/standing-up-man_10522.png 512w, https://goumarry.github.io/yoanngoumarre/wp-content/uploads/2024/06/standing-up-man_10522-480x480.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 512px, 100vw" class="et-waypoint et_pb_animation_top et_pb_animation_top_tablet et_pb_animation_top_phone wp-image-201" /></span></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><span>2</span></h4>
+						
+					</div>
+				</div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://goumarry.github.io/yoanngoumarre/projet-1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
