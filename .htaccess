@@ -23,7 +23,7 @@ RewriteRule . /yoanngoumarre/index.php [L]
 # Les directives (lignes) entre « BEGIN Simply Static » et « END Simply Static » sont générées
 # dynamiquement, et doivent être modifiées uniquement via les filtres WordPress.
 # Toute modification des directives situées entre ces marqueurs sera surchargée.
-<Files "C:\xampp\htdocs\yoanngoumarre/wp-content/uploads\simply-static\689824c9eb6d596e8dc57188b7f53ffa-debug.txt">
+<Files "C:\xampp\htdocs\yoanngoumarre/wp-content/uploads\simply-static\38a70fab8d65761f129af10aba251aab-debug.txt">
 require all denied
 require host localhost
 </Files>
